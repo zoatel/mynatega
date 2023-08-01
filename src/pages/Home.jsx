@@ -77,11 +77,6 @@ export function Home() {
     toast.promise(
       new Promise((resolve, reject) => {
         let dep = seatingNumber.slice(0, 4)
-        if(dep === "1323"){
-          if(seatingNumber.slice(0, 5) === "13230"){
-            dep = "13230";
-          }
-        }
         const resCollectionRef = collection(db, `${dep}_res`)
         const rankCollectionRef = collection(db, `${dep}_rank`)
         const subjectCollectionRef = collection(db, 's_names')
