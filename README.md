@@ -1,12 +1,12 @@
-# MyNatega.com
+# [MyNatega.com](https://mynatega.pages.dev)
 
-[![MyNatega.com](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xqTOC8EXqXjlHoMMGX3Z13FuVZs_B6X0OVoDCJk1acku52GELv61v04nP5KKWMLqRzwSV0w9USqM5rTPySzUY4iNfZsw=w1919-h960)](https://mynatega.com)
+[![MyNatega.com](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xqTOC8EXqXjlHoMMGX3Z13FuVZs_B6X0OVoDCJk1acku52GELv61v04nP5KKWMLqRzwSV0w9USqM5rTPySzUY4iNfZsw=w1919-h960)](https://mynatega.pages.dev)
 
-MyNatega.com is a web application created by a Computer and Systems Department student at Helwan University. It aims to provide detailed exam results with statistics for students, bridging the gap left by the official university website.
+[MyNatega.com](https://mynatega.pages.dev) is a web application created by a Computer and Systems Department student at Helwan University. It aims to provide detailed exam results with statistics for students, bridging the gap left by the official university website.
 
 ## Access the Website
 
-To access the website, please visit [MyNatega.com](https://mynatega.com) and use the following seating number: **25230101** to explore the features and functionalities.
+To access the website, please visit [MyNatega.com](https://mynatega.pages.dev) and use the following seating number: **25230101** to explore the features and functionalities.
 
 ## Project Overview
 
